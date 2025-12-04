@@ -2,7 +2,7 @@
 
 A modern, feature-rich Android application for managing personal finances, built with **Jetpack Compose** and **Kotlin**.
 
-![Budget Tracker Banner](http://res.cloudinary.com/diee2a2rx/image/upload/v1764841247/budgetTracker/profile/vwzollr0sbjj1bceimbl.jpg)
+![Budget Tracker Banner](http://res.cloudinary.com/diee2a2rx/image/upload/v1764841672/budgetTracker/profile/i5ugjmaiuiout1d9enjz.jpg)
 
 ## 📱 Overview
 
@@ -93,7 +93,7 @@ object Constants {
 
 | Dashboard | Add Expense | Profile |
 |:---:|:---:|:---:|
-| ![Dashboard](http://res.cloudinary.com/diee2a2rx/image/upload/v1764841491/budgetTracker/profile/cqanvfnxz9ce8rdwlcqz.jpg) | ![Add Expense](http://res.cloudinary.com/diee2a2rx/image/upload/v1764841247/budgetTracker/profile/vwzollr0sbjj1bceimbl.jpg) | ![Profile](http://res.cloudinary.com/diee2a2rx/image/upload/v1764841375/budgetTracker/profile/lzw8yqsqfaxgwpqcd3ix.jpge) |
+| ![Dashboard](http://res.cloudinary.com/diee2a2rx/image/upload/v1764841491/budgetTracker/profile/cqanvfnxz9ce8rdwlcqz.jpg) | ![Add Expense](http://res.cloudinary.com/diee2a2rx/image/upload/v1764841247/budgetTracker/profile/vwzollr0sbjj1bceimbl.jpg) | ![Profile](http://res.cloudinary.com/diee2a2rx/image/upload/v1764841744/budgetTracker/profile/tcja8a32ctbz675oehtn.jpg) |
 
 ## 🤝 Contributing
 
@@ -111,4 +111,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 Built with ❤️ using Jetpack Compose
+
 
